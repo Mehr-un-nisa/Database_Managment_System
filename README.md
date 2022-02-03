@@ -20,3 +20,11 @@
   <h4> Object oriented DBMS  </h4> 
   <li> Based on objects instead of rows and columns</li> 
   <li> Allows objects to have members like methods, properties and fields</li> 
+  <h3> Examples of DBMS </h3> 
+  <li> Oracle</li> 
+  <li> SQL server</li> 
+  <li> MYSQL</li> 
+  <h4> Oracle  </h4> 
+  <li> A Relational database management system , can be stored on cloud or on-premises</li> 
+  <h4> SQL server</h4> 
+  <li> A Relational database management system built on the top of SQL - a standardized programming language that allows db administrators to handle databases and query data</li>   
