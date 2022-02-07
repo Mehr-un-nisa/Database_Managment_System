@@ -27,4 +27,8 @@
   <h4> Oracle  </h4> 
   <li> A Relational database management system , can be stored on cloud or on-premises</li> 
   <h4> SQL server</h4> 
-  <li> A Relational database management system built on the top of SQL - a standardized programming language that allows db administrators to handle databases and query data</li>   
+  <li> A Relational database management system built on the top of SQL - a standardized programming language that allows db administrators to handle databases and query data</li>   <h4>Characteristics of data - ACID</h4> 
+  <li>Atomicity - Single modeule perofrming single task</li>
+  <li>Consistency - Data remains consistent if modifications added</li>  
+  <li>Isolation - No link and functionality between modules, each module is perfomring isolately </li>  
+  <li>Durability - Long-lasting data</li>
