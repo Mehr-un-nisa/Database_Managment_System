@@ -32,3 +32,4 @@
   <li>Consistency - Data remains consistent if modifications added</li>  
   <li>Isolation - No link and functionality between modules, each module is perfomring isolately </li>  
   <li>Durability - Long-lasting data</li>
+  <h4> SQL Queries</h4> 
