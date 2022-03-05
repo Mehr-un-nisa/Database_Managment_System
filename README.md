@@ -33,3 +33,6 @@
   <li>Isolation - No link and functionality between modules, each module is perfomring isolately </li>  
   <li>Durability - Long-lasting data</li>
   <h4> SQL Queries</h4> 
+  <h4> Join </h4>
+    <h4> Normalization  </h4>
+  
