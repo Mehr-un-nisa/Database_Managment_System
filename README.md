@@ -35,4 +35,4 @@
   <h4> SQL Queries</h4> 
   <h4> Join </h4>
     <h4> Normalization  </h4>
-  
+   <h4> Indexing  </h4>
