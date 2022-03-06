@@ -36,3 +36,4 @@
   <h4> Join </h4>
     <h4> Normalization  </h4>
    <h4> Indexing  </h4>
+   <h4> How to restrict a function in class from other function in class</h4>
